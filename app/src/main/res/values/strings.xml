@@ -1,0 +1,8 @@
+<resources>
+    <string name="Form">Formulario</string>
+    <string name="name">Nombre</string>
+    <string name="Lastname">Apellido</string>
+    <string name="Edd">Edad</string>
+
+
+</resources>
